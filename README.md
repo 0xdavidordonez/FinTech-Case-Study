@@ -2,7 +2,7 @@
 *By David Ordonez Martel*
 
 ## **_Overview and Origin_**
-![logo](EWTlogo.png)
+![logo](EWTLOGO.png)
 
 **Name of Company:** Energy Web Foundation  
 **Incorporation Year:** 2017  
