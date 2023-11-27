@@ -2,7 +2,7 @@
 *By David Ordonez Martel*
 
 ## **_Overview and Origin_**
-![logo](C:\Users\0xdaom\Desktop\FinTech-Case-Study)
+![logo](EWT_logo.png)
 **Name of Company:** Energy Web Foundation  
 **Incorporation Year:** 2017  
 **Founders:**
