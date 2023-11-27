@@ -3,7 +3,6 @@
 
 ## **_Overview and Origin_**
 ![logo](EWTLOGO.png)
-
 **Name of Company:** Energy Web Foundation  
 **Incorporation Year:** 2017  
 **Founders:**
