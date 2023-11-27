@@ -2,18 +2,18 @@
 *By David Ordonez Martel*
 
 ## **_Overview and Origin_**
-
+![logo](C:\Users\0xdaom\Desktop\FinTech-Case-Study)
 **Name of Company:** Energy Web Foundation  
 **Incorporation Year:** 2017  
 **Founders:**
-- Energy web chain co-founded by globally respected energy think-and-do tank Rocky Mountain Institute (RMI) and noted blockchain developer Grid Singularity (GSy).
-- Cohort of 10 founding Affiliates.
+Energy web chain co-founded by globally respected energy think-tank Rocky Mountain Institute (RMI) and noted blockchain developer Grid Singularity (GSy)
+along with a cogort of 10 founding energy companies.
 
 **Idea Generation:**
-Energy Web, initiated in 2017, resulted from a collaboration between RMI, a global non-profit with expertise in decarbonizing the energy sector, and Grid Singularity. The goal is to make the global energy transition successful by implementing digital technology that radically reduces the cost and complexity of coordinating various companies in the energy sector.
+[Energy Web, initiated in 2017, resulted from a collaboration between RMI, a global non-profit with expertise in decarbonizing the energy sector, and Grid Singularity. The goal is to make the global energy transition successful by implementing digital technology that radically reduces the cost and complexity of coordinating various companies in the energy sector.](https://www.kraken.com/learn/what-is-energy-web-token-ewt#)
 
 **Funding:**
-The Energy Web Foundation has raised approximately $20 million over two years through several funding rounds, selling 21 million Energy Web Token (EWT) coins.
+[The Energy Web Foundation has raised approximately $20 million through several funding rounds, selling 21 million Energy Web Token (EWT) coins.](https://growjo.com/company/Energy_Web_Foundation)
 ## Business Activities
 
 **Financial Problem:**
@@ -64,12 +64,13 @@ Building blockchain infrastructure tools for emerging clean energy companies.
 - Cross-Industry Collaborations
 
 **Other Major Companies:**
-PowerLedger (POWR) RowanCoin (RWN) and any blockchain project with a smart contract feature.
+[PowerLedger (POWR) RowanCoin (RWN) and any blockchain project with a smart contract feature.](https://www.coingecko.com/en/coins/energy-web)
 
 ## **_Results_**
 
 **Business Impact:**
-Acceleration of the clean energy transition in a more transparent and decentralized manner.
+Acceleration of the clean energy transition in a more transparent and decentralized manner. 
+Over time, Energy Web has grown to over 100 partnerships, including industry giants Tepco, Siemens, Shell, and Exelon.
 
 **Core Metrics:**
 - Adoption Rates
