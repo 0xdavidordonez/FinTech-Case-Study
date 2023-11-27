@@ -99,10 +99,10 @@ Develop a non-enterprise-grade wallet client.
 Helps decentralize the blockchain even more by bringing in other node validators without relying on third-party centralized platforms.
 
 **Technologies:**
-Open-source technology, Ethereum smart contract technology, and token staking.
+Open-source technology, Ethereum smart contracts, token staking and DeFi apps within the ecosystem.
 
 **Appropriateness:**
-These technologies are widely used by beginner and advanced cryptocurrency users, and a s a result they would expand the use of the Energy Web Chain and bringing more revenue for transaction validators.
+These technologies are widely used by beginner and advanced cryptocurrency users, and as a result they would expand the use of the Energy Web Chain and bring in more revenue for transaction validators.
 
 _____________________________________________________________________________________________________________________________________________
 
